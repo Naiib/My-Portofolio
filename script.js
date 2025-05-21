@@ -33,7 +33,6 @@ async function fetchQuote(retryCount = 3) {
 
 // Initial load
 fetchQuote();
-@asdaada
   
 // New quote button click handler
 newQuoteBtn.addEventListener('click', () => {
